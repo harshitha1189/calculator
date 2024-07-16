@@ -22,7 +22,9 @@ Before you begin, ensure you have met the following requirements:
 
 2.Navigate to the project directory:   
 cd calculator
-3.To run the project locally, use the following command:
+3.Install the dependencies:
+npm install 
+4.To run the project locally, use the following command:
 npm start
 
 
